@@ -4,9 +4,6 @@ An e-commerce website is an online platform where businesses can showcase and se
 
 🔗 **Live Demo:** [Click Here](https://ankit8081.github.io/E-Commerce-Website/)
 
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)  
-[![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)]()  
-[![GitHub issues](https://img.shields.io/github/issues/Ankit8081/E-Commerce-Website)](https://github.com/Ankit8081/E-Commerce-Website/issues)
 
 ---
 
